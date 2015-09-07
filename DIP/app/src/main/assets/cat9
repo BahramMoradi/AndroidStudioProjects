@@ -1,0 +1,122 @@
+{
+  "TITLE":"Danmark og omverdenen",
+  "1": {
+    "q": "1. Hvad hedder det europæiske samarbejde, som Danmark har været medlem af siden 1973?",
+    "A": "Europarådet",
+    "B": "EU (tidl. EF) ",
+    "Rigtig": "B",
+    "C": "Europas Forenede Stater"
+  },
+  "2": {
+    "q": "2. Hvilke lande grundlagde EF i 1950’erne?",
+    "A": "Belgien, Frankrig, Italien, Luxembourg, Nederlandene og Tyskland ",
+    "Rigtig": "A",
+    "B": "Danmark, Irland og Storbritannien",
+    "C": "Danmark, Finland, Island, Norge og Sverige"
+  },
+  "3": {
+    "q": "3. Hvor mange lande er pr. 1. januar 2007 medlem af EU?",
+    "A": "15",
+    "B": "27 ",
+    "Rigtig": "B",
+    "C": "35"
+  },
+  "4": {
+    "q": "4. Hvilket af følgende lande er medlem af EU?",
+    "A": "Rusland",
+    "B": "Island",
+    "C": "Sverige ",
+    "Rigtig": "C"
+  },
+  "5": {
+    "q": "5. Hvilket af følgende nordiske lande er ikke medlem af EU?",
+    "A": "Sverige",
+    "B": "Norge ",
+    "Rigtig": "B",
+    "C": "Finland"
+  },
+  "6": {
+    "q": "6. Hvilke forbehold har Danmark i forhold til samarbejdet i EU?",
+    "A": "Danmarks forbehold angår unionsborgerskabet, euroen, forsvarsområdet og dele af samarbejdet om fælles rets- og udlændingepolitik ",
+    "Rigtig": "A",
+    "B": "Danmarks forbehold angår EU’s miljøpolitik",
+    "C": "Danmarks forbehold angår EU’s fødevarepolitik"
+  },
+  "7": {
+    "q": "7. Borgerne i EU’s medlemslande vælger ved direkte valg medlemmerne af:",
+    "A": "Europa-Kommissionen",
+    "B": "Rådet for Den Europæiske Union",
+    "C": "Europa-Parlamentet ",
+    "Rigtig": "C"
+  },
+  "8": {
+    "q": "8. Hvor mange medlemmer af Europa-Parlamentet blev valgt i Danmark ved valget i 2004?",
+    "A": "3",
+    "B": "14 ",
+    "Rigtig": "B",
+    "C": "47"
+  },
+  "9": {
+    "q": "9. Hvor ofte afholdes valg til Europa-Parlamentet?",
+    "A": "Hvert tredje år",
+    "B": "Hvert femte år ",
+    "Rigtig": "B",
+    "C": "Hvert syvende år"
+  },
+  "10": {
+    "q": "10. Hvilken organisation stod bag udarbejdelsen af Den Europæiske Menneskerettighedskonvention i 1950?",
+    "A": "Europarådet ",
+    "Rigtig": "A",
+    "B": "NATO",
+    "C": "WTO"
+  },
+  "11": {
+    "q": "11. Hvem er medlemmer af Rådet for Den Europæiske Union?",
+    "A": "Ministre udpeget af EU-kommissionen",
+    "B": "Ministre udpeget af Europa-Parlamentet",
+    "C": "Ministre fra de enkelte medlemslandes regeringer ",
+    "Rigtig": "C"
+  },
+  "12": {
+    "q": "12. Hvad hedder det nordiske samarbejdsorgan, der varetager samarbejdet mellem de nordiske parlamenter?",
+    "A": "Norden",
+    "B": "Nordisk Råd ",
+    "Rigtig": "B",
+    "C": "FN"
+  },
+  "13": {
+    "q": "13. Hvad hedder den internationale organisation for fred og sikkerhed, som Danmark har været medlem af siden 1945?",
+    "A": "FN ",
+    "Rigtig": "A",
+    "B": "NATO",
+    "C": "WTO"
+  },
+  "14": {
+    "q": "14. Danmark opfylder FN’s målsætning om bidrag til internationalt udviklingsarbejde. Hvor stort bidrag bør der ifølge denne målsætning gives pr. år målt i procent af bruttonationalindkomsten (BNI)?",
+    "A": "0,1 %",
+    "B": "0,7 % ",
+    "Rigtig": "B",
+    "C": "3,5 %"
+  },
+  "15": {
+    "q": "15. Hvad hedder den internationale forsvarsalliance, som Danmark har været medlem af siden 1949?",
+    "A": "Warszawa-pagten",
+    "B": "NATO ",
+    "Rigtig": "B",
+    "C": "Vestunionen"
+  },
+  "16": {
+    "q": "16. Hvad er NATO?",
+    "A": "En international økonomisk sammenslutning",
+    "B": "En international forsvarsalliance ",
+    "Rigtig": "B",
+    "C": "En international sammenslutning, der arbejder for økonomisk udvikling i resten af verden"
+  },
+  "17": {
+    "q": "17. Danmark er sammen med mange andre nationer medlem af NATO. Hvilket af følgende lande er også medlem?",
+    "A": "Tyrkiet ",
+    "Rigtig": "A",
+    "B": "Rusland",
+    "C": "Egypten"
+  }
+}

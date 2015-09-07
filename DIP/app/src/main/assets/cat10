@@ -1,0 +1,72 @@
+{
+  "TITLE":"Dansk økonomi og det danske velfærdssamfund",
+  "1": {
+    "q": "1. Hvem handler Danmark mest med?",
+    "A": "USA",
+    "B": "De øvrige EU-lande og Norge ",
+    "Rigtig": "B",
+    "C": "Japan"
+  },
+  "2": {
+    "q": "2. Hvor stor en andel af kvinderne i den erhvervsaktive alder i Danmark er tilknyttet arbejdsstyrken? ",
+    "A": "Ca. 25 %",
+    "B": "Ca. 50 %",
+    "C": "Ca. 75 % ",
+    "Rigtig": "C"
+  },
+  "3": {
+    "q": "3. Der har de seneste år været politisk debat om velfærdssamfundets fremtid, og der blev i 2006 indgået en stor politisk velfærdsaftale om arbejdsmarkedet og pensionsalderen. Hvorfor har der været debat om velfærdssamfundets fremtid?",
+    "A": "Fordi EU har stillet krav om, at indkomstskatten skal sænkes",
+    "B": "Fordi der i de kommende år gradvist vil blive flere ældre og færre i den erhvervsaktive alder ",
+    "Rigtig": "B",
+    "C": "Fordi der i den kommende periode vil være mange børn, der kræver skolegang og uddannelse"
+  },
+  "4": {
+    "q": "4. Hvor stor en del af alle beskæftigede arbejder i det offentlige, når man medtager alle de offentlige opgaver (undervisning, administration, sundhed, service osv.)?",
+    "A": "Omkring 5 % af alle beskæftigede arbejder i det offentlige",
+    "B": "Omkring 15 % af alle beskæftigede arbejder i det offentlige",
+    "C": "Omkring 30 % af alle beskæftigede arbejder i det offentlige ",
+    "Rigtig": "C"
+  },
+  "5": {
+    "q": "5. Hvor mange lønmodtagere i Danmark er medlem af en faglig organisation? ",
+    "A": "Ca. 30 % ",
+    "B": "Ca. 50 % ",
+    "C": "Ca. 80 % ",
+    "Rigtig": "C"
+  },
+  "6": {
+    "q": "6. Andelen af lønmodtagere, der er medlem af en fagforening, er forholdsvis høj i Danmark. I Danmark",
+    "A": "skal en lønmodtager være medlem af en fagforening, så længe vedkommende arbejder",
+    "B": "er det valgfrit, om man vil være medlem af en fagforening ",
+    "Rigtig": "B",
+    "C": "skal en lønmodtager være medlem af en fagforening i mindst 10 år"
+  },
+  "7": {
+    "q": "7. Hvis interesser repræsenterer LO?",
+    "A": "Arbejdsgivernes",
+    "B": "Lønmodtagernes ",
+    "Rigtig": "B",
+    "C": "De selvstændige erhvervsdrivendes"
+  },
+  "8": {
+    "q": "8. Hvis interesser repræsenterer DA?",
+    "A": "Arbejdsgivernes ",
+    "Rigtig": "A",
+    "B": "Lønmodtagernes",
+    "C": "De selvstændig erhvervsdrivendes"
+  },
+  "9": {
+    "q": "9. Kan fædre i Danmark få orlov i forbindelse med deres barns fødsel?",
+    "A": "Ja ",
+    "Rigtig": "A",
+    "B": "Nej",
+    "C": "Ja, men kun hvis barnet er alvorligt sygt"
+  },
+  "10": {
+    "q": "10. Må børn under 13 år arbejde uden for hjemmet?",
+    "A": "Ja",
+    "B": "Nej ",
+    "Rigtig": "B"
+  }
+}

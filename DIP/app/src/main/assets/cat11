@@ -1,0 +1,38 @@
+{
+  "TITLE":"Tro og kirke",
+  "1": {
+    "q": "1. Hvilken tro bygger den danske folkekirke på?",
+    "A": "Den protestantiske (evangelisk-lutherske) tro ",
+    "Rigtig": "A",
+    "B": "Den katolske tro",
+    "C": "Den jødiske tro"
+  },
+  "2": {
+    "q": "2. Hvem betaler kirkeskat?",
+    "A": "Det gør kun medlemmer af folkekirken ",
+    "Rigtig": "A",
+    "B": "Det gør alle, der bor i landet",
+    "C": "Det gør alle, der kommer i kirken"
+  },
+  "3": {
+    "q": "3. Kan en gruppe borgere frit danne en menighed eller et trossamfund?",
+    "A": "Ja, så længe de øvrige regler, der gælder i samfundet, respekteres ",
+    "Rigtig": "A",
+    "B": "Nej",
+    "C": "Ja, men den/det skal godkendes i Kirkeministeriet"
+  },
+  "4": {
+    "q": "4. Hvilke særlige rettigheder opnår godkendte menigheder og trossamfund uden for folkekirken?",
+    "A": "De opnår ret til at registrere fødsler og navngivning",
+    "B": "De opnår ret til, på lige fod med folkekirken, at få staten til at opkræve deres kirkeskat",
+    "C": "De opnår ret til at foretage vielser med juridisk gyldighed ",
+    "Rigtig": "C"
+  },
+  "5": {
+    "q": "5. Hvilken trosretning er den næststørste i Danmark?",
+    "A": "Jødedommen",
+    "B": "Katolicismen",
+    "C": "Islam ",
+    "Rigtig": "C"
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "TITLE":"Dansk historie og kultur",
+  "1": {
+    "q": "1. Hvad fortæller den runesten, som Harald Blåtand rejste i Jelling i ca. 965?",
+    "A": "At han indførte enevælden",
+    "B": "At han tog på vikingetogt til England",
+    "C": "At han indførte kristendommen ",
+    "Rigtig": "C"
+  },
+  "2": {
+    "q": "2. Hvilken religion blev indført i Danmark i slutningen af 900-tallet af kong Harald Blåtand?",
+    "A": "Troen på Odin og Thor",
+    "B": "Kristendommen ",
+    "Rigtig": "B",
+    "C": "Jødedommen"
+  },
+  "3": {
+    "q": "3. Hvilken lovsamling, der fik stor betydning for dansk lov, blev skabt i middelalderen?",
+    "A": "Københavns Lov",
+    "B": "Jyske Lov  ",
+    "Rigtig": "B",
+    "C": "De fynske love"
+  },
+  "4": {
+    "q": "74. Hvad var navnet på den biskop, som regnes for Københavns grundlægger?",
+    "A": "Ansgar",
+    "B": "B. Absalon ",
+    "Rigtig": "B",
+    "C": "Amled"
+  },
+  "5": {
+    "q": "5. I en periode var de skandinaviske lande samlet i en union under den danske regent. Hvad hed denne union?",
+    "A": "Den skandinaviske union",
+    "B": "Kalmarunionen ",
+    "Rigtig": "B",
+    "C": "Københavnerunionen"
+  },
+  "6": {
+    "q": "6. Hvad kaldes sange fra middelalderen, som ofte handler om riddere og andre fra adelsmiljøet ?",
+    "A": "Kongeviser",
+    "B": "Bondeviser",
+    "C": "Folkeviser ",
+    "Rigtig": "C"
+  },
+  "7": {
+    "q": "7. Hvilket år fandt reformationen sted i Danmark?",
+    "A": "850",
+    "B": "1536 ",
+    "Rigtig": "B",
+    "C": "1760"
+  },
+  "8": {
+    "q": "8. Hvad medførte reformationen blandt andet i Danmark? ",
+    "A": "Den katolske kirkes position i Danmark blev styrket",
+    "B": "Danmark blev protestantisk ",
+    "Rigtig": "B",
+    "C": "Der blev bygget flere klostre i Danmark"
+  },
+  "9": {
+    "q": "9. Danmarks konge fra 1588 til 1648 er især kendt for at have opført en lang række af Københavns mest berømte bygninger \u2013 bl.a. Rundetaarn og Børsen. Hvad hed han?",
+    "A": "Christian 2.",
+    "B": "Frederik 3.",
+    "C": "Christian 4. ",
+    "Rigtig": "C"
+  },
+  "10": {
+    "q": "10. Hvilket andet nordisk land har Danmark mange gange været i krig med, især i 1600-tallet?",
+    "A": "Norge",
+    "B": "Sverige ",
+    "Rigtig": "B",
+    "C": "Finland"
+  },
+  "11": {
+    "q": "11. Hvornår blev enevælden indført i Danmark?",
+    "A": "1160",
+    "B": "1360",
+    "C": "1660 ",
+    "Rigtig": "C"
+  },
+  "12": {
+    "q": "12. Hvilket år blev stavnsbåndet, der blandt andet forhindrede fæstebønder i at flytte fra deres hjemegn, ophævet?",
+    "A": "1388",
+    "B": "1588",
+    "C": "1788 ",
+    "Rigtig": "C"
+  },
+  "13": {
+    "q": "13. Hvad var navnet på den tyske læge, som i slutningen af 1700-tallet styrede Danmark på vegne af den sindssyge kong Christian 7.?",
+    "A": "J. F. Struensee ",
+    "Rigtig": "A",
+    "B": "J. H. E. Bernstorff",
+    "C": "A. G. Moltke"
+  },
+  "14": {
+    "q": "14. Hvilket land bombarderede i 1807 København og tog bagefter den danske flåde?",
+    "A": "Frankrig",
+    "B": "England (Storbritannien) ",
+    "Rigtig": "B",
+    "C": "Sverige"
+  },
+  "15": {
+    "q": "15. Hvilken begivenhed fandt sted i Danmark i marts 1848?",
+    "A": "Bønderne brugte deres store antal til at indlede en revolution",
+    "B": "Borgerskabet afsatte kongen midlertidigt",
+    "C": "Kongen indvilligede i at afskaffe enevælden ",
+    "Rigtig": "C"
+  },
+  "16": {
+    "q": "16. I 1864 afstod Danmark hertugdømmerne Slesvig og Holsten. Hvorfor?",
+    "A": "Danmark tabte krigen mod kongeriget Hannover",
+    "B": "Danmark tabte krigen mod Preussen (Tyskland) og Østrig ",
+    "Rigtig": "B",
+    "C": "Danmark ville ikke længere inkludere tysktalende områder"
+  },
+  "17": {
+    "q": "17. Hvad betød tabet af Slesvig og Holsten i 1864 blandt andet?",
+    "A": "Den danske statskasse gik bankerot",
+    "B": "Det blev forbudt at tale tysk i Danmark",
+    "C": "Danmark mistede 1/3 af sit territorium ",
+    "Rigtig": "C"
+  },
+  "18": {
+    "q": "18. Hvilket politisk parti opstod i 1870’erne som en del af arbejderbevægelsen?",
+    "A": "Venstre",
+    "B": "Socialdemokratiet ",
+    "Rigtig": "B",
+    "C": "Det Radikale Venstre"
+  },
+  "19": {
+    "q": "19. Hvilket politisk parti, der i særlig grad varetog bøndernes interesser, blev dannet i 1870?",
+    "A": "Venstre ",
+    "Rigtig": "A",
+    "B": "Socialdemokratiet",
+    "C": "Socialistisk Folkeparti"
+  },
+  "20": {
+    "q": "20. Andelsbevægelsen betød, at landmændene sikrede sig kontrollen med både produktion og afsætning af deres varer. Hvornår blev andelsbevægelsen grundlagt i Danmark?",
+    "A": "I anden halvdel af 1600-tallet",
+    "B": "I anden halvdel af 1800-tallet ",
+    "Rigtig": "B",
+    "C": "I anden halvdel af 1900-tallet"
+  },
+  "21": {
+    "q": "21. Hvilket land var mål for de fleste af de danskere, der udvandrede i anden halvdel af 1800-tallet?",
+    "A": "USA ",
+    "Rigtig": "A",
+    "B": "Rusland",
+    "C": "Storbritannien"
+  },
+  "22": {
+    "q": "22. Hvilken person forbinder man specielt med folkehøjskolerne?",
+    "A": "Kingo",
+    "B": "Grundtvig ",
+    "Rigtig": "B",
+    "C": "Holberg"
+  },
+  "23": {
+    "q": "23. I 1901 blev der gennemført et parlamentarisk systemskifte (parlamentarisme).Hvad gik det ud på?",
+    "A": "At regeringsmagten gik til partiet Højre",
+    "B": "At en regering ikke kunne regere imod et flertal i Folketinget ",
+    "Rigtig": "B",
+    "C": "At der kun kunne udskrives valg hvert fjerde år"
+  },
+  "24": {
+    "q": "24. Hvilket parti blev dannet i 1905 af udbrydere fra partiet Venstre?",
+    "A": "Det Radikale Venstre ",
+    "Rigtig": "A",
+    "B": "Det Konservative Folkeparti",
+    "C": "Kristeligt Folkeparti"
+  },
+  "25": {
+    "q": "25. Under 1. verdenskrig var Danmark?",
+    "A": "Allieret med Tyskland",
+    "B": "Allieret med Frankrig og Storbritannien",
+    "C": "Neutralt ",
+    "Rigtig": "C"
+  },
+  "26": {
+    "q": "26. Efter 1. verdenskrig blev det i 1920 muligt for Danmark",
+    "A": "at genoprette dobbeltmonarkiet Danmark og Norge",
+    "B": "at afskaffe enevælden",
+    "C": "at blive genforenet med Sønderjylland ",
+    "Rigtig": "C"
+  },
+  "27": {
+    "q": "27. Hvornår fik Danmark sin første kvindelige minister?",
+    "A": "1853",
+    "B": "1924 ",
+    "Rigtig": "B",
+    "C": "1960"
+  },
+  "28": {
+    "q": "28. Hvornår blev Danmark i 2. verdenskrig besat af tyske tropper?",
+    "A": "1. September 1939",
+    "B": "9. April 1940 ",
+    "Rigtig": "B",
+    "C": "22. Juni 1941"
+  },
+  "29": {
+    "q": "29. Ved besættelsen af Danmark i 1940 krævede Tyskland,",
+    "A": "at den danske regering blev afsat",
+    "B": "at den danske regering skulle samarbejde med Tyskland ",
+    "Rigtig": "B",
+    "C": "at Folketinget skulle hjemsendes"
+  },
+  "30": {
+    "q": "30. Hvornår blev Danmark (bortset fra Bornholm) befriet fra den tyske besættelse?",
+    "A": "9. april 1940",
+    "B": "29. august 1943",
+    "C": "5. maj 1945 ",
+    "Rigtig": "C"
+  },
+  "31": {
+    "q": "31. Under anden verdenskrig levede der ca. 8.000 jøder i Danmark, før jødeforfølgelserne satte ind. Hvad skete der med de fleste danske jøder i 1943?",
+    "A": "De fleste danske jøder blev ført til koncentrationslejre i Tyskland",
+    "B": "De fleste danske jøder flygtede til Sverige ",
+    "Rigtig": "B",
+    "C": "De fleste danske jøder flygtede til Storbritannien"
+  },
+  "32": {
+    "q": "32. I 1945 blev de Forenede Nationer (FN) oprettet. Hvornår blev Danmark medlem?",
+    "A": "A. Ved oprettelsen i 1945 ",
+    "Rigtig": "A",
+    "B": "Efter opstanden i Ungarn i 1956",
+    "C": "Efter Cuba-krisen i 1962"
+  },
+  "33": {
+    "q": "33. Hvilken forsvarsalliance blev Danmark medlem af i 1949?",
+    "A": "NATO ",
+    "Rigtig": "A",
+    "B": "Warszawa-pagten",
+    "C": "Vestunionen"
+  },
+  "34": {
+    "q": "34. Hvilket parti blev dannet i 1959 af en gruppe personer, der forlod Danmarks Kommunistiske Parti DKP?",
+    "A": "VS \u2013 Venstresocialisterne",
+    "B": "SF \u2013 Socialistisk Folkeparti ",
+    "Rigtig": "B",
+    "C": "C. Retsforbundet"
+  },
+  "35": {
+    "q": "35. I 1970’erne opstod en græsrodsbevægelse, der hed Rødstrømpebevægelsen. Hvad arbejdede den for?",
+    "A": "Ligestilling mellem mænd og kvinder ",
+    "Rigtig": "A",
+    "B": "Forbud mod abort",
+    "C": "At kvindernes plads var i hjemmet"
+  },
+  "36": {
+    "q": "36. I 1970’erne opstod en række græsrodsbevægelser med forskellige mål. En af de markante mærkesager var:",
+    "A": "modstand mod atomkraft ",
+    "Rigtig": "A",
+    "B": "indførelse af et fælleseuropæisk militær",
+    "C": "flere kolonihaver i storbyerne"
+  },
+  "37": {
+    "q": "37. Hvilken dansk politiker valgte at gå af som statsminister dagen efter EFafstemningen i 1972?",
+    "A": "Thorvald Stauning",
+    "B": "Poul Schl\u00fcter",
+    "C": "Jens Otto Krag ",
+    "Rigtig": "C"
+  },
+  "38": {
+    "q": "38. Hvilken europæisk organisation blev Danmark medlem af den 1. januar 1973?",
+    "A": "EFTA",
+    "B": "EF ",
+    "Rigtig": "B",
+    "C": "COMECON"
+  },
+  "39": {
+    "q": "39. Hvorfor kaldes folketingsvalget i 1973 \"Jordskredsvalget\"?",
+    "A": "Fordi mange nye partier kom i Folketinget ",
+    "Rigtig": "A",
+    "B": "Fordi der var en meget høj valgdeltagelse",
+    "C": "Fordi der efter 10 år med samme regering kom en ny regering"
+  },
+  "40": {
+    "q": "40. Der var økonomisk krise i Danmark i 1970’erne. Hvordan kom den til udtryk?",
+    "A": "Der var arbejdsløshed og underskud på betalingsbalancen ",
+    "Rigtig": "A",
+    "B": "Staten kunne ikke betale lønningerne til de offentligt ansatte",
+    "C": "Prisen på fast ejendom faldt markant"
+  },
+  "41": {
+    "q": "41. Hvilken statsminister ledede firkløver-regeringen i 1980’erne?",
+    "A": "Poul Schl\u00fcter (Det Konservative Folkeparti) ",
+    "Rigtig": "A",
+    "B": "Uffe Ellemann-Jensen (Venstre)",
+    "C": "C. Poul Nyrup Rasmussen (Socialdemokratiet)"
+  },
+  "42": {
+    "q": "42. Hvilken afstemning endte med et ja i 1986?",
+    "A": "Afstemningen om EF-pakken  ",
+    "Rigtig": "A",
+    "B": "Afstemningen om EU’s østudvidelse",
+    "C": "Afstemningen om December-pakken"
+  },
+  "43": {
+    "q": "43. Hvornår blev Danmarks Radios tv-monopol brudt?",
+    "A": "1950’erne",
+    "B": "1960’erne",
+    "C": "1980’erne ",
+    "Rigtig": "C"
+  },
+  "44": {
+    "q": "44. Hvilken EU-traktat stemte den danske befolkning nej til i 1992?",
+    "A": "Rom-traktaten",
+    "B": "Paris-traktaten",
+    "C": "Maastricht-traktaten ",
+    "Rigtig": "C"
+  },
+  "45": {
+    "q": "45. Hvornår blev Dansk Folkeparti dannet?",
+    "A": "1973",
+    "B": "1982",
+    "C": "C. 1995 ",
+    "Rigtig": "C"
+  },
+  "46": {
+    "q": "46. Hvornår blev Enhedslisten dannet?",
+    "A": "1870",
+    "B": "1973",
+    "C": "1989 ",
+    "Rigtig": "C"
+  },
+  "47": {
+    "q": "47. I Danmark har de fleste regeringer siden 2. verdenskrig været:",
+    "A": "flertalsregeringer",
+    "B": "mindretalsregeringer ",
+    "Rigtig": "B"
+  },
+  "48": {
+    "q": "48. Inden for hvilket af følgende energiområder har Danmark de sidste årtier i særlig grad markeret sig på verdensmarkedet?",
+    "A": "Kul",
+    "B": "Vindenergi ",
+    "Rigtig": "B",
+    "C": "Atomenergi"
+  }
+}

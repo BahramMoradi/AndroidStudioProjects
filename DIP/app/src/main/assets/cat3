@@ -1,0 +1,45 @@
+{
+  "TITLE":"Ret og domstol",
+  "1": {
+    "q": "1. Hvad er den kriminelle lavalder i Danmark?",
+    "A": "12 år",
+    "B": "15 år ",
+    "Rigtig": "B",
+    "C": "18 år"
+  },
+  "2": {
+    "q": "2. Kan der idømmes dødsstraf i Danmark?",
+    "A": "Nej ",
+    "Rigtig": "A",
+    "B": "Ja, men dødsstraf har ikke været anvendt siden 1950",
+    "C": "Ja, men kun under krigstilstande"
+  },
+  "3": {
+    "q": "3. Hvem kan overvære retssager ved domstolene?",
+    "A": "Alle \u2013 dog ikke hvis retssagen holdes for lukkede døre ",
+    "Rigtig": "A",
+    "B": "De personer, der er indkaldt som vidner eller er i familie med den anklagede",
+    "C": "Alle, der er godkendt af politiet"
+  },
+  "4": {
+    "q": "4. Hvor længe kan politiet tilbageholde en person, der er anholdt, før personen stilles for en dommer?",
+    "A": "Den anholdte skal stilles for en dommer inden for 24 timer ",
+    "Rigtig": "A",
+    "B": "Den anholdte skal stilles for en dommer inden for 1 uge",
+    "C": "Den anholdte skal stilles for en dommer inden for 3 uger"
+  },
+  "5": {
+    "q": "5. Hvad hedder den øverste domstol i Danmark?",
+    "A": "Højesteret ",
+    "Rigtig": "A",
+    "B": "Landsretten",
+    "C": "Danmarks øverste Domstol"
+  },
+  "6": {
+    "q": "6. Hvilke opgaver har Folketingets ombudsmand?",
+    "A": "Ombudsmanden kontrollerer, at domstolene følger Folketingets love",
+    "B": "Ombudsmanden bedømmer, om de offentlige myndigheder begår forsømmelser eller fejl ",
+    "Rigtig": "B",
+    "C": "Ombudsmanden hjælper Folketinget med udarbejdelse af love"
+  }
+}

@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="statsborgerskab.dk.dip.StartActvity">
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/MenuStartPage"
+        android:title="Start side"
+    />
+    <item
+        android:id="@+id/MenuTestPage"
+        android:title="Prøver"
+        />
+    <item
+        android:id="@+id/MenuExercisePage"
+        android:title="Træning"
+        />
+    <item
+        android:id="@+id/MenuResultPage"
+        android:title="Resultat"
+        />
+</menu>

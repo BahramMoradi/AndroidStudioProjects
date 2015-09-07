@@ -1,0 +1,203 @@
+{
+  "TITLE":"11 juni 2014",
+  "1": {
+    "q": "1. Hvor stor en andel af befolkningen i Danmark er indvandrere og efterkommere?",
+    "A": "Ca. 5% ",
+    "B": "Ca. 10% ",
+    "Rigtig": "B",
+    "C": "Ca. 15%"
+  },
+  "2": {
+    "q": "2. Hvilken organisation blev Danmark medlem af i 1973?",
+    "A": "FN",
+    "B": "Nordisk Råd",
+    "C": "EU (der dengang hed EF) ",
+    "Rigtig": "C"
+  },
+  "3": {
+    "q": "3. Hvornår er det grundlovsdag?",
+    "A": "Den 5. juni ",
+    "Rigtig": "A",
+    "B": "Den 9. april",
+    "C": "Den 8. marts"
+  },
+  "4": {
+    "q": "4. Hvor stor en andel af befolkningen i Danmark er medlemmer af folkekirken?",
+    "A": "Ca. 59% ",
+    "B": "Ca. 69%",
+    "C": "Ca. 79% ",
+    "Rigtig": "C"
+  },
+  "5": {
+    "q": "5. Kan man blive gift i folkekirken, selvom man ikke er medlem?",
+    "A": "Ja, hvis den, man skal giftes med, er medlem af folkekirken ",
+    "Rigtig": "A",
+    "B": "Nej"
+  },
+  "6": {
+    "q": "6. Hvilken formel rolle har dronningen blandt andet?",
+    "A": "Hun beslutter, hvilke lovforslag der skal til afstemning i Folketinget",
+    "B": "Hun underskriver sammen med en minister de lovforslag, som Folketinget vedtager ",
+    "Rigtig": "B",
+    "C": "Hun kontrollerer, om regeringen overholder grundloven"
+  },
+  "7": {
+    "q": "7. Hvem vedtager lovforslag?",
+    "A": "Folketinget ",
+    "Rigtig": "A",
+    "B": "Domstolene",
+    "C": "Dronningen"
+  },
+  "8": {
+    "q": "8. Kan politikerne bestemme, hvordan domstolene skal afgøre en konkret retssag?",
+    "A": "Ja",
+    "B": "Nej ",
+    "Rigtig": "B"
+  },
+  "9": {
+    "q": "9. Er befolkningerne i Grønland og på Farøerne med til at vælge medlemmer til Folketinget?",
+    "A": "Ja ",
+    "Rigtig": "A",
+    "B": "Nej"
+  },
+  "10": {
+    "q": "10. Hvor tit er der valg til Europa-Parlamentet?",
+    "A": "Hvert 3. år",
+    "B": "Hvert 4. år",
+    "C": "Hvert 5. år ",
+    "Rigtig": "C"
+  },
+  "11": {
+    "q": "11. Er domstolene en del af den lovgivende magt?",
+    "A": "Ja",
+    "B": "Nej ",
+    "Rigtig": "B"
+  },
+  "12": {
+    "q": "12. Hvilken rettighed er sikret i grundloven?",
+    "A": "Retten til at lave foreninger med lovligt formål ",
+    "Rigtig": "A",
+    "B": "Retten til fri abort",
+    "C": "Retten til at bære våben"
+  },
+  "13": {
+    "q": "13. Hvad er en mindretalsregering?",
+    "A": "En regering, der består af et eller flere partier, der ikke har flertal i Folketinget ",
+    "Rigtig": "A",
+    "B": "En regering, der laver love til fordel for mindretallene i det danske samfund"
+  },
+  "14": {
+    "q": "14. Har man pligt til at stemme ved valg til Europa-Parlamentet?",
+    "A": "Ja",
+    "B": "Nej ",
+    "Rigtig": "B"
+  },
+  "15": {
+    "q": "15. Hvem har ansvaret for de offentlige sygehuse?",
+    "A": "Kommunerne",
+    "B": "Regionerne ",
+    "Rigtig": "B",
+    "C": "Staten"
+  },
+  "16": {
+    "q": "16. Hvem har ansvaret for folkeskolerne?",
+    "A": "Kommunerne ",
+    "Rigtig": "A",
+    "B": "Regionerne",
+    "C": "Staten"
+  },
+  "17": {
+    "q": "17. Har kvinder værnepligt?",
+    "A": "Ja",
+    "B": "Nej ",
+    "Rigtig": "B"
+  },
+  "18": {
+    "q": "18. Kan man normalt få økonomisk støtte af staten, mens man studerer?",
+    "A": "Ja ",
+    "Rigtig": "A",
+    "B": "Nej"
+  },
+  "19": {
+    "q": "19. Hvad er boligstøtte?",
+    "A": "Støtte til at finde en bolig",
+    "B": "Økonomisk støtte til renovering",
+    "C": "Økønomisk støtte til husleje ",
+    "Rigtig": "C"
+  },
+  "20": {
+    "q": "20. Hvad er politiets opgave blandt andet?",
+    "A": "At opklare kriminalitet ",
+    "Rigtig": "A",
+    "B": "At dømme kriminelle i retssager",
+    "C": "At godkende politiske beslutninger, der vedrører straffeloven"
+  },
+  "21": {
+    "q": "21. Har man altid ret til økonomisk hjælp fra det offentlige, hvis man ikke har et lønnet arbejde?",
+    "A": "Ja",
+    "B": "Nej  ",
+    "Rigtig": "B"
+  },
+  "22": {
+    "q": "22. Har mænd normalt mulighed for at tage fædreorlov, når de er blevet fædre?",
+    "A": "Ja ",
+    "Rigtig": "A",
+    "B": "Nej"
+  },
+  "23": {
+    "q": "23. Bestemmer man selv, om man vil være medlem af en fagforening?",
+    "A": "Ja ",
+    "Rigtig": "A",
+    "B": "Nej"
+  },
+  "24": {
+    "q": "24. Fra hvilken alder må man arbejde i sin fritid?",
+    "A": "Fra man er 8 år",
+    "B": "Fra man er 10 år",
+    "C": "Fra man er 13 år ",
+    "Rigtig": "C"
+  },
+  "25": {
+    "q": "25. I hvilken pasningsordning bliver barnet passet i et privat hjem?",
+    "A": "I en udflytterbørnehave",
+    "B": "I en dagpleje ",
+    "Rigtig": "B",
+    "C": "I en SFO"
+  },
+  "26": {
+    "q": "26. Hvornår er man myndig i Danmark?",
+    "A": "Når man er 15 år",
+    "B": "Når man er 18 år ",
+    "Rigtig": "B",
+    "C": "Når man er 21 år"
+  },
+  "27": {
+    "q": "27. Hvor mange års undervisningspligt er der i Danmark?",
+    "A": "7 år",
+    "B": "9 år",
+    "C": "10 år ",
+    "Rigtig": "C"
+  },
+  "28": {
+    "q": "28. Den 25. maj 2014 blev der afholdt valg i Danmark. Hvilket valg?",
+    "A": "Kommunevalg",
+    "B": "Folketingsvalg",
+    "C": "Europaparlamentsvalg  ",
+    "Rigtig": "C"
+  },
+  "29": {
+    "q": "29. Hvilket parti forlod regeringen i januar 2014?",
+    "A": "SF ",
+    "Rigtig": "A",
+    "B": "Enhedslisten",
+    "C": "Liberal Alliance"
+  },
+  "30": {
+    "q": "30. I maj 2014 var Danmark vært for det europæiske Melodi Grand Prix. I hvilken by blev det afholdt?",
+    "A": "Herning",
+    "B": "Aalborg",
+    "C": "København ",
+    "Rigtig": "C"
+
+  }
+}

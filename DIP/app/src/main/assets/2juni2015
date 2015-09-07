@@ -1,0 +1,204 @@
+{
+  "TITLE":"2 juni 2015",
+    "1": {
+      "q": "1. Hvor mange mennesker bor der i Danmark?",
+      "A": "Ca. 8,5 mio.",
+      "B": "Ca. 5,6 mio.",
+      "Rigtig": "B",
+      "C": " Ca. 2,7 mio."
+    },
+    "2": {
+      "q": "2. Hvad hedder Danmarks tredjestørste by?",
+      "A": "Odense ",
+      "Rigtig":"A",
+      "B": "København",
+      "C": "Århus"
+    },
+    "3": {"q": "3. Hvornår blev Danmark medlem af EF (i dag EU)?",
+      "A":"1949",
+      "B":"1973",
+      "C":"1992",
+      "Rigtig":"B"
+    },
+
+    "4": {
+      "q": "4. Er Danmark medlem af FN?",
+      "A": "Ja ",
+      "Rigtig": "A",
+      "B": "Nej"
+    },
+    "5": {
+      "q": "5. Kan man selv vælge religion i Danmark?",
+      "A": "Ja  ",
+      "Rigtig": "A",
+      "B": "Nej"
+    },
+    "6": {
+      "q": "6. Hvordan bliver det afgjort, hvem der skal være konge eller dronning i Danmark? ",
+      "A": "Det bestemmer Folketinget ",
+      "B": "Det besluttes ved en folkeafstemning ",
+      "C": "Monarkens ældste barn arver tronen, når monarken dør ",
+      "Rigtig": "C"
+    },
+    "7": {
+      "q": "7. Hvornår blev grundloven vedtaget (Danmark første frie forfatning)? ",
+      "A": "1649 ",
+      "B": "1749 ",
+      "C": "1849 ",
+      "Rigtig": "C"
+    },
+    "8": {
+      "q": "8. Hvilken rettighed er sikret i den danske grundlov? ",
+      "A": "Retten til at lave foreninger med lovligt formål  ",
+      "Rigtig": "A",
+      "B": "Retten til at stifte familie ",
+      "C": "Retten til at bære våben"
+    },
+    "9": {
+      "q": "9. Hvor mange procent af den voksne befolkning er medlem af et politisk parti i Danmark? ",
+      "A": "Ca. 5 %",
+      "Rigtig": "A",
+      "B": "Ca. 25 % ",
+      "C": "Ca. 45 %"
+    },
+    "10": {
+      "q": "10. Hvor ofte er der valg til kommunalbestyrelser og regionsråd? ",
+      "A": "Hvert andet år ",
+      "B": "Hvert tredje år ",
+      "C": "Hvert fjerde år ",
+      "Rigtig": "C"
+    },
+    "11": {
+      "q": "11. Har regeringen den udøvende magt? ",
+      "A": "Ja ",
+      "Rigtig": "A",
+      "B": "Nej"
+    },
+    "12": {
+      "q": "12. Hvor mange medlemmer har Folketinget? ",
+      "A": "93 ",
+      "B": "125 ",
+      "C": "179 ",
+      "Rigtig": "C"
+    },
+    "13": {
+      "q": "13. Hvor gammel skal man være for at stemme ved folketingsvalg? ",
+      "A": "Mindst 18 år  ",
+      "Rigtig": "A",
+      "B": "Mindst 21 år ",
+      "C": "Mindst 25 år "
+    },
+    "14": {
+      "q": "14. Er medlemmer af Folketinget normalt medlem af et politisk parti? ",
+      "A": "Ja ",
+      "B": "Nej ",
+      "Rigtig": "B"
+    },
+    "15": {
+      "q": "15. Hvem er den øverste politiske leder af en kommune? ",
+      "A": "En kontorchef ",
+      "B": "En borgmester  ",
+      "Rigtig": "B",
+      "C": "En dommer "
+    },
+    "16": {
+      "q": "16. Hvor mange regioner er der i Danmark? ",
+      "A": "5",
+      "Rigtig": "A",
+      "B": "15 ",
+      "C": "25"
+    },
+    "17": {
+      "q": "17. Har borgere i Danmark normalt ret til gratis lægehjælp? ",
+      "A": "Ja",
+      "Rigtig": "A",
+      "B": "Nej"
+    },
+    "18": {
+      "q": "18. Hvor gammel skal man normalt være for at blive gift i Danmark? ",
+      "A": "15 år ",
+      "B": "18 år  ",
+      "Rigtig": "B",
+      "C": "21 år"
+    },
+    "19": {
+      "q": "19. Kan man skrive til medlemmer af Folketinget, hvis man gerne vil gøre opmærksom på et problem i samfundet? ",
+      "A": "Ja  ",
+      "Rigtig": "A",
+      "B": "Nej"
+    },
+    "20": {
+      "q": "20. Hvornår skal en anholdt stilles for en dommer? ",
+      "A": "Inden for 24 timer  ",
+      "Rigtig": "A",
+      "B": "Inden for 48 timer ",
+      "C": "Inden for 72 timer"
+    },
+    "21": {
+      "q": "21. Hvilken domstol er den øverste domstol i Danmark? ",
+      "A": "Københavns Byret ",
+      "B": "Vestre Landsret ",
+      "C": "Højesteret ",
+      "Rigtig": "C"
+    },
+    "22": {
+      "q": "22. Er der dødsstraf i Danmark? ",
+      "A": "Ja",
+      "B": "Nej ",
+      "Rigtig": "B"
+    },
+    "23": {
+      "q": "23. Er det gratis at være medlem af en fagforening? ",
+      "A": "Ja ",
+      "B": "Nej ",
+      "Rigtig": "B"
+    },
+    "24": {
+      "q": "24. Hvem får normalt forældremyndigheden, når et ægtepar får børn? ",
+      "A": "Kun moren ",
+      "B": "Kun faren ",
+      "C": "Forældrene får fælles forældremyndighed ",
+      "Rigtig": "C"
+    },
+    "25": {
+      "q": "25. Hvor mange timer er en arbejdsuge normalt i Danmark? ",
+      "A": "30 timer ",
+      "B": "37 timer ",
+      "Rigtig": "B",
+      "C": "45 timer "
+    },
+    "26": {
+      "q": "26. Hvor mange procent af lønmodtagerne i Danmark er medlem af en a-kasse? ",
+      "A": "Ca. 20 % ",
+      "B": "Ca. 40 % ",
+      "C": " Ca. 70 % ",
+      "Rigtig": "C"
+    },
+    "27": {
+      "q": "27. Er undervisningen gratis på de offentlige gymnasier? ",
+      "A": "Ja  ",
+      "Rigtig": "A",
+      "B": "Nej "
+    },
+    "28": {
+      "q": "28. Hvilken europæisk regeringsleder var på officielt besøg i Danmark den 28. april 2015? ",
+      "A": "Storbritanniens premiereminister David Cameron ",
+      "B": "Sveriges statsminister Stefan L\u00f6fven ",
+      "C": "Tysklands forbundskansler Angela Merkel ",
+      "Rigtig": "C"
+    },
+    "29": {
+      "q": "29. I maj 2015 blev det fejret, at Danmark blev befriet efter fem års tysk besættelse under 2. verdenskrig. Hvor mange år er det siden, Danmark blev befriet? ",
+      "A": "60 år ",
+      "B": "70 år  ",
+      "Rigtig": "B",
+      "C": "80 år"
+    },
+    "30": {
+      "q": "30. I 2015 skal der afholdes valg i Danmark. Hvilket valg? ",
+      "A": "Regional- og kommunalvalg ",
+      "B": "Folketingsvalg  ",
+      "Rigtig": "B",
+      "C": "Europa-Parlamentsvalg "
+    }
+  }

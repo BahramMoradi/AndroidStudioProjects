@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:layout_marginBottom="1dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:textAllCaps="false"
+            android:text="Rettigheder og pligter"
+            android:id="@+id/cat2BT" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:layout_marginBottom="1dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:textAllCaps="false"
+            android:text="Ret og domstol"
+            android:id="@+id/cat3BT" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:layout_marginBottom="1dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:textAllCaps="false"
+            android:text="Kultur og traditioner"
+            android:id="@+id/cat4BT" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:layout_marginBottom="1dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:textAllCaps="false"
+            android:text="Kongehus, flag, Rigsfællesskab og Island"
+            android:id="@+id/cat1BT" />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:layout_marginBottom="1dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:textAllCaps="false"
+            android:text="Danmarks geografi og befolkning"
+            android:id="@+id/cat5BT" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:layout_marginBottom="1dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:textAllCaps="false"
+            android:text="Dansk historie og kultur"
+            android:id="@+id/cat6BT" />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:layout_marginBottom="1dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:textAllCaps="false"
+            android:text="Grundlov, styreform og folketing"
+            android:id="@+id/cat7BT" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:layout_marginBottom="1dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:textAllCaps="false"
+            android:text="Kommuner og regioner og opgavefordeling mv."
+            android:id="@+id/cat8BT" />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:layout_marginBottom="1dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:textAllCaps="false"
+            android:layout_weight="1"
+            android:text="Danmark og omverdenen"
+            android:id="@+id/cat9BT" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:layout_marginBottom="1dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:textAllCaps="false"
+            android:text="Dansk økonomi og det danske velfærdssamfund"
+            android:id="@+id/cat10BT" />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:layout_marginBottom="1dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:textAllCaps="false"
+            android:text="Tro og kirke"
+            android:id="@+id/cat11BT" />
+
+    </LinearLayout>
+
+</ScrollView>

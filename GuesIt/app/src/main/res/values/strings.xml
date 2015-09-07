@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Galegeleg</string>
+    <string name="action_settings">Settings</string>
+    <string name="mainpage">
+           Det er et gæt leg spil udviklet i  Mobilapplikationsudvikling - Android
+           september 2014 på Ballerup DTU. Efter 7 forkert gæt er spillet tabt.
+    </string>
+    <string name="status">Slut</string>
+    <string name="ord">Ord :</string>
+    <string name="synligord">Synligt Ord     : </string>
+    <string name="antalForkertBogstaver">Antal forkert   :</string>
+    <string name="brugteBogstaver">Brugte bogstaver: </string>
+    <string name="skrivBogstaver">Skriv Bogstaver :</string>
+    <string name="ok">OK</string>
+
+    <string name="start">Start</string>
+    <string name="spil">Spil</string>
+    <string name="result">Resultat</string>
+    <string  name="indstilling">Indstilling</string>
+    <string name="help">Hjælp</string>
+    <string name="omspil">Om Appen</string>
+    <string name="exit">Exit</string>
+
+
+
+
+
+</resources>

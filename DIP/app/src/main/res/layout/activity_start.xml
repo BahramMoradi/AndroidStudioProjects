@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:shrinkColumns="*"
+    android:stretchColumns="*"
+
+    >
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.8"
+            android:id="@+id/tableRow1"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_span="3"
+                android:text="@string/velkommen"
+                android:textSize="@dimen/questions_text_size"
+                android:id="@+id/infoTV"
+                android:layout_margin="5dp"
+                android:background="@drawable/rounded_corner_question_field"
+                />
+        </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow2"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.1"
+
+        >
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textAllCaps="false"
+            android:layout_weight="1"
+            android:text="Træning"
+            android:id="@+id/exerciseBT"
+            android:layout_margin="5dp"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:textSize="20dp"
+            android:background="@drawable/roundedcorner"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textAllCaps="false"
+            android:layout_weight="1"
+            android:text="Prøve"
+            android:id="@+id/testBT"
+            android:layout_margin="5dp"
+            android:focusable="true"
+            android:textSize="20dp"
+            android:background="@drawable/roundedcorner"
+
+            />
+    </TableRow>
+
+</TableLayout>

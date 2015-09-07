@@ -1,0 +1,157 @@
+{
+  "TITLE":"Kultur og traditioner",
+  "1": {
+    "q": "1. Den danske grundlovsdag fejres",
+    "A": "Hvert år den 1. maj",
+    "B": "Hvert år den 15. maj",
+    "C": "Hvert år den 5. juni ",
+    "Rigtig": "C"
+  },
+  "2": {
+    "q": "2. Hvordan fejres sankthansaften den 23. juni?",
+    "A": "Der sættes tændte stearinlys i vinduerne",
+    "B": "Der brændes bål ",
+    "Rigtig": "B",
+    "C": "Børnene klæder sig ud"
+  },
+  "3": {
+    "q": "3. Saxo skrev i slutningen af 1100-tallet en bog. Hvad handlede den om?",
+    "A": "Dyre- og planteliv i Danmark",
+    "B": "Sø- og handelsruter i Norden",
+    "C": "Danmarks historie ",
+    "Rigtig": "C"
+  },
+  "4": {
+    "q": "4. Hvilken dansk forfatter skrev i 1700-tallet en række komedier, hvoraf nogle stadig bliver opført \u2013 for eksempel Jeppe på Bjerget?",
+    "A": "Søren Kierkegaard",
+    "B": "Ludvig Holberg ",
+    "Rigtig": "B",
+    "C": "Georg Brandes"
+  },
+  "5": {
+    "q": "5. H.C. Andersen er en af Danmarks mest kendte forfattere. Hvilket af disse tre eventyr har han skrevet?",
+    "A": "Guldgåsen",
+    "B": "Den bestøvlede kat",
+    "C": "Den grimme ælling ",
+    "Rigtig": "C"
+  },
+  "6": {
+    "q": "6. I hvilken by blev H. C. Andersen født?",
+    "A": "København",
+    "B": "Odense ",
+    "Rigtig": "B",
+    "C": "Århus"
+  },
+  "7": {
+    "q": "7. Hvornår levede den danske filosof Søren Kierkegaard?",
+    "A": "I 1200-tallet",
+    "B": "I 1600-tallet",
+    "C": "I 1800-tallet ",
+    "Rigtig": "C"
+  },
+  "8": {
+    "q": "8. Karen Blixen er en af Danmarks mest kendte forfattere. Hvilken af følgende bøger har Karen Blixen skrevet?",
+    "A": "Frøken Smillas fornemmelse for sne",
+    "B": "Den afrikanske farm ",
+    "Rigtig": "B",
+    "C": "Mit hjem i Rungsted"
+  },
+  "9": {
+    "q": "9. Danmarkshistoriens bedst kendte billedhugger levede fra 1770 til 1844, og i København blev der bygget et museum til hans skulpturer. Hvad hed han?",
+    "A": "Vilhelm Bissen",
+    "B": "C.W. Eckersberg",
+    "C": "Bertel Thorvaldsen ",
+    "Rigtig": "C"
+  },
+  "10": {
+    "q": "10. Var Vilhelm Hammershøi:",
+    "A": "Kunstmaler ",
+    "Rigtig": "A",
+    "B": "Videnskabsmand",
+    "C": "Opdagelsesrejsende"
+  },
+  "11": {
+    "q": "11. Var Asger Jorn:",
+    "A": "Opdagelsesrejsende",
+    "B": "Videnskabsmand",
+    "C": "Kunstmaler ",
+    "Rigtig": "C"
+  },
+  "12": {
+    "q": "12. Var Tycho Brahe:",
+    "A": "Videnskabsmand ",
+    "Rigtig": "A",
+    "B": "Kunstmaler",
+    "C": "Forfatter"
+  },
+  "13": {
+    "q": "13. Hvilken dansk videnskabsmand opdagede en ny stjerne i stjernebilledet Cassiopeia?",
+    "A": "Ole Rømer",
+    "B": "Tycho Brahe ",
+    "Rigtig": "B",
+    "C": "Niels Bohr"
+  },
+  "14": {
+    "q": "14. En af de mest kendte danske videnskabsmand er Niels Bohr. Hvad fik han Nobelprisen for i 1922?",
+    "A": "Måling af lysets hastighed",
+    "B": "Model for atomers opbygning ",
+    "Rigtig": "B",
+    "C": "Teori om jordens magnetfelt"
+  },
+  "15": {
+    "q": "15. Hvilket sprog har især påvirket udviklingen af det danske sprog?",
+    "A": "Tysk ",
+    "Rigtig": "A",
+    "B": "Fransk",
+    "C": "Nederlandsk"
+  },
+  "16": {
+    "q": "16. Hvilken instruktør har instrueret Olsen Banden-filmene?\u0085 ",
+    "A": "Erik Balling ",
+    "Rigtig": "A",
+    "B": "Lars von Trier",
+    "C": "Bille August"
+  },
+  "17": {
+    "q": "17. Hvem var \u00e9n af hovedmændene bag Dogme 95-manifestet, der skabte stor international opmærksomhed omkring dansk film?",
+    "A": "Lars von Trier  ",
+    "Rigtig": "A",
+    "B": "Gabriel Axel",
+    "C": "Carl Th. Dreyer"
+  },
+  "18": {
+    "q": "18. Hvornår vandt Danmark EM i fodbold?",
+    "A": "1980",
+    "B": "1992 ",
+    "Rigtig": "B",
+    "C": "2000"
+  },
+  "19": {
+    "q": "19. Hvornår vandt det danske kvindelandshold VM i håndbold?",
+    "A": "1972",
+    "B": "1985",
+    "C": "1997 ",
+    "Rigtig": "C"
+  },
+  "20": {
+    "q": "20. Hvilken lampe er tegnet af arkitekten Poul Henningsen?",
+    "A": "Le Klint-lampen",
+    "B": "PH-lampen ",
+    "Rigtig": "B",
+    "C": "P. Henningsens natlampe"
+  },
+  "21": {
+    "q": "21. Den danske arkitekt Jørn Utzon er kendt for at have tegnet:",
+    "A": "Den Sorte Diamant, København",
+    "B": "Operahuset i Sydney, Australien ",
+    "Rigtig": "B",
+    "C": "Guggenheim-museet i Bilbao, Spanien"
+  },
+  "22": {
+    "q": "22. Hvad står betegnelsen \"Blomsterbørn\"for?",
+    "A": "En del af ungdomskulturen i 1960'erne og begyndelsen af 1970'erne ",
+    "Rigtig": "A",
+    "B": "Børn, som går i skovbørnehave",
+    "C": "Personer, som samler på tørrede blomster"
+  }
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <CheckBoxPreference
+        android:key="gempoint"
+        android:title="Gem point"
+        android:summary="Gemer dine point i spillet"
+        android:defaultValue="false"
+        />
+    <CheckBoxPreference
+        android:key="lyd"
+        android:title="Afspil lyd"
+        android:summary="Afspile lyd når tastes rigtig eller forkert"
+        android:defaultValue="false"
+        />
+     <CheckBoxPreference
+        android:key="hentOrdFraDr"
+        android:title="Henter ord fra dr.dk"
+        android:summary="Henter ord fra dr.dk "
+        android:defaultValue="false"
+        />
+    
+
+</PreferenceScreen>

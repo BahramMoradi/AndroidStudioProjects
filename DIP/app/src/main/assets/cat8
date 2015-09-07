@@ -1,0 +1,93 @@
+{
+  "TITLE":"Kommuner og regioner og opgavefordeling mv.",
+  "1": {
+    "q": "1. Hvor mange kommuner er der i Danmark?",
+    "A": "5",
+    "B": "98 ",
+    "Rigtig": "B",
+    "C": "179"
+  },
+  "2": {
+    "q": "2. Hvad kaldes den øverste administrative og politiske leder af en kommunalbestyrelse?",
+    "A": "En formand",
+    "B": "En borgmester ",
+    "Rigtig": "B",
+    "C": "En bestyrelsesformand"
+  },
+  "3": {
+    "q": "3. Hvor ofte afholdes der valg til kommunalbestyrelsen?",
+    "A": "Hvert år",
+    "B": "Hvert fjerde år ",
+    "Rigtig": "B",
+    "C": "Hvert sjette år"
+  },
+  "4": {
+    "q": "4. Hvilke af følgende opgaver er kommunale?",
+    "A": "Børnehaver og folkeskolen ",
+    "Rigtig": "A",
+    "B": "Sygehuse og sygesikring",
+    "C": "Politi og videregående uddannelser"
+  },
+  "5": {
+    "q": "5. Hvilke opgaver varetager kommunerne?",
+    "A": "De har ansvar for bl.a. gymnasier og politi",
+    "B": "De har ansvar for bl.a. hospitaler",
+    "C": "De har ansvar for bl.a. folkeskolen og ældreplejen ",
+    "Rigtig": "C"
+  },
+  "6": {
+    "q": "6. Hvor mange regioner er der i Danmark?",
+    "A": "5 ",
+    "Rigtig": "A",
+    "B": "7",
+    "C": "13"
+  },
+  "7": {
+    "q": "7. Hvad hedder de fem regioner, som Danmark er opdelt i?",
+    "A": "Region Hovedstaden, Region Sjælland, Region Syddanmark, Region Midtjylland og Region Nordjylland ",
+    "Rigtig": "A",
+    "B": "Region København og Malmø, Region Roskilde, Region Odense, Region Herning og Region Aalborg",
+    "C": "Sjællandsregionen, Lolland-Falster Regionen, Fynsregionen, Region Jylland og Region Bornholm"
+  },
+  "8": {
+    "q": "8. Hvor ofte afholdes der valg til regionsrådet?",
+    "A": "Hvert år",
+    "B": "Hvert fjerde år ",
+    "Rigtig": "B",
+    "C": "Hvert sjette år"
+  },
+  "9": {
+    "q": "9. Hvilke af følgende opgaver er regionale?",
+    "A": "Børnehaver og folkeskolen",
+    "B": "Sygehuse og sygesikring ",
+    "Rigtig": "B",
+    "C": "Politi og videregående uddannelser"
+  },
+  "10": {
+    "q": "10. Hvor gammel skal en borger mindst være for at kunne have valgret ved kommunalvalg og regionalvalg?",
+    "A": "18 år ",
+    "Rigtig": "A",
+    "B": "20 år",
+    "C": "22 år"
+  },
+  "11": {
+    "q": "11. Kan udenlandske statsborgere have valgret ved kommunalvalg og regionalvalg?",
+    "A": "Ja, hvis de enten er statsborgere i et EU-land, Island eller Norge eller uden afbrydelse har haft fast bopæl i Danmark, på Færøerne eller i Grønland i de sidste tre år forud for valgdagen ",
+    "Rigtig": "A",
+    "B": "Nej"
+  },
+  "12": {
+    "q": "12. Hvilke offentlige myndigheder har ret til at udskrive skat?",
+    "A": "Det har staten og kommunerne ",
+    "Rigtig": "A",
+    "B": "Det har kun staten",
+    "C": "Det har staten, regionerne og kommunerne"
+  },
+  "13": {
+    "q": "13. Hvem har ansvaret for politiet?",
+    "A": "Kommunerne",
+    "B": "Regionerne",
+    "C": "Staten ",
+    "Rigtig": "C"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "TITLE":"Rettigheder og pligter",
+  "1": {
+    "q": "1. Hvad er myndighedsalderen i Danmark?",
+    "A": "16 år",
+    "B": "18 år ",
+    "Rigtig": "B",
+    "C": "20 år"
+  },
+  "2": {
+    "q": "2. Tillader den danske grundlov censur?",
+    "A": "Ja",
+    "B": "Nej ",
+    "Rigtig": "B"
+  },
+  "3": {
+    "q": "3. Er det lovligt i Danmark at forskelsbehandle en person på grund af race eller etnisk oprindelse?",
+    "A": "Ja",
+    "B": "Nej ",
+    "Rigtig": "B"
+  },
+  "4": {
+    "q": "4. Er det lovligt i Danmark at forskelsbehandle en person på grund af køn?",
+    "A": "Ja",
+    "B": "Nej ",
+    "Rigtig": "B"
+  },
+  "5": {
+    "q": "5. Hvilke af følgende rettigheder giver grundloven?",
+    "A": "Grundloven sikrer alle retten til at samles og give udtryk for meninger ",
+    "Rigtig": "A",
+    "B": "Grundloven sikrer alle retten til fri proces, dvs. retten til gratis at føre en sag ved domstolene",
+    "C": "Grundloven sikrer alle ret til en bolig"
+  },
+  "6": {
+    "q": "6. Religionsfrihed i grundlovens forstand betyder, at borgerne har ret til at dyrke deres religion,",
+    "A": "så længe de øvrige regler, der gælder i samfundet, respekteres ",
+    "Rigtig": "A",
+    "B": "hvis staten har godkendt religionen",
+    "C": "helt uden nogen begrænsninger"
+  },
+  "7": {
+    "q": "7. På hvilken af følgende måder kan udlændinge tildeles dansk indfødsret(statsborgerskab)?",
+    "A": "Statsministeren beslutter, hvilke udlændinge der kan tildeles dansk indfødsret (statsborgerskab)",
+    "B": "Folketinget tildeler ved lov udlændinge dansk indfødsret (statsborgerskab)",
+    "Rigtig": "B",
+    "C": "Udlændingeservice træffer afgørelse om, hvorvidt en udlænding kan få dansk indfødsret (statsborgerskab)"
+  },
+  "8": {
+    "q": "8. Skal alle danske mænd aftjene værnepligt?",
+    "A": "Ja, hvis de er egnede og ikke trækker frinummer ",
+    "Rigtig": "A",
+    "B": "Ja, hvis de er egnede og har en højde over 1,70 m. ",
+    "C": "Nej, det danske forsvar består kun af professionelle soldater ansat på kontrakt"
+  },
+  "9": {
+    "q": "9. I Danmark kan man blive pålagt \"et borgerligt ombud\". Hvad vil det sige?",
+    "A": "Hvis man bliver udpeget som for eksempel nævning (jurymedlem), har man pligt til at påtage sig dette hverv ",
+    "Rigtig": "A",
+    "B": "Man kan blive pålagt at arbejde for en social institution eller i en forening",
+    "C": "Man har pligt til at tage en uddannelse"
+  },
+  "10": {
+    "q": "10. Hvor mange års undervisningspligt er der i Danmark?",
+    "A": "7 år",
+    "B": "9 år ",
+    "Rigtig": "B",
+    "C": "11 år"
+  },
+  "11": {
+    "q": "11. Skal forældre til børn i den danske folkeskole betale penge til skolen for deres børns skolegang?",
+    "A": "Ja",
+    "B": "Nej ",
+    "Rigtig": "B",
+    "C": "Ja, forældrene skal betale 50 % af udgifterne til læremateriale til skolen"
+  },
+  "12": {
+    "q": "12. Er der skolepligt i Danmark?",
+    "A": "Ja, alle børn skal gå i folkeskolen",
+    "B": "Ja, men forældre kan frit vælge, om deres barn skal gå i folkeskolen eller i en privat skole",
+    "C": "Nej, forældre kan vælge, om deres barn skal undervises i folkeskolen, i en privat skole, eller om forældrene vil sørge for undervisning af barnet i hjemmet ",
+    "Rigtig": "C"
+  },
+  "13": {
+    "q": "13. Homoseksuelle kan i Danmark:",
+    "A": "Bo sammen, men kan ikke få papir på deres forhold",
+    "B": "Indgå et registreret partnerskab ",
+    "Rigtig": "B",
+    "C": "Blive gift i en dansk folkekirke på samme måde som heteroseksuelle"
+  },
+  "14": {
+    "q": "14. Hvornår fik kvinder i Danmark adgang til fri abort?",
+    "A": "i 1950’erne",
+    "B": "i 1970’erne ",
+    "Rigtig": "B",
+    "C": "i 1990’erne"
+  },
+  "15": {
+    "q": "15. Hvem har forældremyndigheden over to gifte personers fælles børn?",
+    "A": "Moderen",
+    "B": "Faderen",
+    "C": "Moderen og faderen har fælles forældremyndighed ",
+    "Rigtig": "C"
+  },
+  "16": {
+    "q": "16. Offentlighedsloven indeholder regler om,",
+    "A": "at alle har lov til at opholde sig på offentlige strande og i offentlige skove ",
+    "B": "borgernes og pressens adgang til at se dokumenter mv., som offentlige myndigheder har liggende ",
+    "Rigtig": "B",
+    "C": "ordensreglerne for ophold på offentlige områder"
+  }
+}

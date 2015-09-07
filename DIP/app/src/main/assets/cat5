@@ -1,0 +1,129 @@
+{
+  "TITLE":"Danmarks geografi og befolkning",
+  "1": {
+    "q": "1. Hvor mange indbyggere er der i Danmark?",
+    "A": "Ca. 4,6 mio.",
+    "B": "Ca. 5,4 mio. ",
+    "Rigtig": "B",
+    "C": "Ca. 6,1 mio."
+  },
+  "2": {
+    "q": "2. I hvilken del af Danmark lever hovedparten af det tyske mindretal?",
+    "A": "Fyn ",
+    "B": "Nordjylland",
+    "C": "Sønderjylland ",
+    "Rigtig": "C"
+  },
+  "3": {
+    "q": "3. Hvor stor en del af den danske befolkning har anden etnisk baggrund end dansk (det vil sige indvandrere og efterkommere af indvandrere)?",
+    "A": "ca. 8 % ",
+    "Rigtig": "A",
+    "B": "ca. 15 %",
+    "C": "ca. 20 %"
+  },
+  "4": {
+    "q": "4. I 1980’erne og 1990’erne kom der mange flygtninge til Danmark fra især?",
+    "A": "Mellemøsten, Sri Lanka, Somalia og Balkan ",
+    "Rigtig": "A",
+    "B": "Sydamerika og Sydafrika",
+    "C": "Vietnam, Kina og Thailand"
+  },
+  "5": {
+    "q": "5. I hvilket årti startede indvandringen af mennesker fra især Tyrkiet, Pakistan og det tidligere Jugoslavien til Danmark?",
+    "A": "I 1920’erne ",
+    "B": "I 1940’erne",
+    "C": "I 1960’erne ",
+    "Rigtig": "C"
+  },
+  "6": {
+    "q": "6. Hvilken by er Danmarks største?",
+    "A": "Århus",
+    "B": "København ",
+    "Rigtig": "B",
+    "C": "Odense"
+  },
+  "7": {
+    "q": "7. Hvilken by er Danmarks næststørste?",
+    "A": "Århus ",
+    "Rigtig": "A",
+    "B": "København",
+    "C": "Odense"
+  },
+  "8": {
+    "q": "8. Hvad hedder den halvø, som udgør \u00e9n af Danmarks landsdele?",
+    "A": "Jylland ",
+    "Rigtig": "A",
+    "B": "Langeland",
+    "C": "Sjælland"
+  },
+  "9": {
+    "q": "9. I hvilken landsdel ligger Århus?",
+    "A": "Jylland ",
+    "Rigtig": "A",
+    "B": "Fyn",
+    "C": "Sjælland"
+  },
+  "10": {
+    "q": "10. Hvad hedder farvandet mellem Jylland og Fyn?",
+    "A": "Øresund",
+    "B": "Storebælt",
+    "C": "Lillebælt ",
+    "Rigtig": "C"
+  },
+  "11": {
+    "q": "11. Hvad hedder farvandet mellem Sjælland og Fyn?",
+    "A": "Øresund",
+    "B": "Storebælt ",
+    "Rigtig": "B",
+    "C": "Lillebælt"
+  },
+  "12": {
+    "q": "12. Hvad hedder broen, der forbinder Fyn og Sjælland?",
+    "A": "Lillebæltsbroen",
+    "B": "Storebæltsbroen ",
+    "Rigtig": "B",
+    "C": "Øresundsbron"
+  },
+  "13": {
+    "q": "13. Til hvilket af følgende lande har Danmark en landegrænse?",
+    "A": "Norge",
+    "B": "Tyskland ",
+    "Rigtig": "B",
+    "C": "Storbritannien"
+  },
+  "14": {
+    "q": "14. Hvad hedder den største grønlandske by?",
+    "A": "Nuuk (Godthåb) ",
+    "Rigtig": "A",
+    "B": "Paamiut (Frederikshåb)",
+    "C": "Qaanaaq (Thule)"
+  },
+  "15": {
+    "q": "15. Hvad hedder den største færøske by?",
+    "A": "Thorshavn ",
+    "Rigtig": "A",
+    "B": "Klaksvik",
+    "C": "Vestmanna"
+  },
+  "16": {
+    "q": "16. Hvor stort er Danmarks areal?",
+    "A": "ca. 43.000 km2",
+    "Rigtig": "A",
+    "B": "ca. 163.000 km2",
+    "C": "ca. 283.000 km2"
+  },
+  "17": {
+    "q": "17. Hvilke af følgende lande indgår i det danske rigsfællesskab?",
+    "A": "Danmark, Færøerne og Grønland ",
+    "Rigtig": "A",
+    "B": "Danmark, Grønland og Island",
+    "C": "Danmark, Færøerne og Island"
+  },
+  "18": {
+    "q": "18. Hvilke lande udgør tilsammen de nordiske lande?",
+    "A": "Danmark, Norge, Sverige, Island og Finland samt de selvstyrende områder Grønland, Færøerne og Åland ",
+    "Rigtig": "A",
+    "B": "Danmark, Grønland og Færøerne",
+    "C": "Danmark, Island og Estland"
+  }
+}

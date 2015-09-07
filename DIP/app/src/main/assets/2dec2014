@@ -1,0 +1,203 @@
+{
+  "TITLE": "2 december 2014",
+  "1": {
+    "q": "1. Hvad hedder Danmarks næststørste by?",
+    "A": "København ",
+    "B": "Århus  ",
+    "Rigtig": "B",
+    "C": "Odense"
+  },
+  "2": {
+    "q": "2. Hvornår blev Danmark medlem af NATO? ",
+    "A": "I 1949  ",
+    "Rigtig": "A",
+    "B": "I 1973 ",
+    "C": "I 1992"
+  },
+  "3": {
+    "q": "3. Hvad fejrer man i Danmark hvert år den 5. juni? ",
+    "A": "Grundloven fra 1849 ",
+    "Rigtig": "A",
+    "B": "Afslutningen på2. Verdenskrig i 1945 ",
+    "C": "Det danske medlemskab af EF i 1973"
+  },
+  "4": {
+    "q": "4. Kan medlemmer af folkekirken frit melde sig ud? ",
+    "A": "A:Ja  ",
+    "Rigtig": "A",
+    "B": "Nej"
+  },
+  "5": {
+    "q": "5. Kan man blive gift i folkekirken, hvis man ikke er medlem af folkekirken? ",
+    "A": "Ja, hvis den, man skal giftes med, er medlem af folkekirken  ",
+    "Rigtig": "A",
+    "B": "Nej "
+  },
+  "6": {
+    "q": "6. Hvilken rettighed er sikret i den danske grundlov? ",
+    "A": "A:Retten til at bære våben ",
+    "B": "Retten til at sige og skrive det, man mener  ",
+    "Rigtig": "B",
+    "C": "Retten til at stifte familie"
+  },
+  "7": {
+    "q": "7. Hvem har den udøvende magt? ",
+    "A": "Domstolene ",
+    "B": "Folketinget ",
+    "C": "Regeringen ",
+    "Rigtig": "C"
+  },
+  "8": {
+    "q": "8. Hvem blandt følgende kan fremsætte lovforslag i Folketinget? ",
+    "A": "A:Regeringen  ",
+    "Rigtig": "A",
+    "B": "Kommunerne ",
+    "C": "EU "
+  },
+  "9": {
+    "q": "9. Hvor stor en andel af medlemmerne i Folketinget er kvinder? ",
+    "A": "A:Ca. 30 % ",
+    "B": "Ca. 40 %  ",
+    "Rigtig": "B",
+    "C": "Ca. 50 %"
+  },
+  "10": {
+    "q": "10. Hvor ofte er der valg til Folketinget? ",
+    "A": "Mindst hvert 4. år  ",
+    "Rigtig": "A",
+    "B": "Mindst hvert 5. år ",
+    "C": "Mindst hvert 6. år "
+  },
+  "11": {
+    "q": "11. Er Folketinget en del af den dømmende magt? ",
+    "A": "Ja ",
+    "B": "Nej ",
+    "Rigtig": "B"
+  },
+  "12": {
+    "q": "12. Hvor mange medlemmer af Folketinget er valgt påFærøerne? ",
+    "A": "2  ",
+    "Rigtig": "A",
+    "B": "4 ",
+    "C": "6"
+  },
+  "13": {
+    "q": "13. Hvor gammel skal man være for at stemme ved folketingsvalg? ",
+    "A": "Mindst 16 år ",
+    "B": "Mindst 18 år  ",
+    "Rigtig": "B",
+    "C": "Mindst 20 år "
+  },
+  "14": {
+    "q": "14. Har man pligt til at stemme til valg i Danmark? ",
+    "A": "Ja ",
+    "B": "Nej  ",
+    "Rigtig": "B"
+  },
+  "15": {
+    "q": "15. Hvem har ansvaret for de offentlige vuggestuer? ",
+    "A": "Staten ",
+    "B": "Regionerne ",
+    "C": "Kommunerne  ",
+    "Rigtig": "C"
+  },
+  "16": {
+    "q": "16. Hvor mange kommuner er der i Danmark? ",
+    "A": "68 ",
+    "B": "98  ",
+    "Rigtig": "B",
+    "C": "128 "
+  },
+  "17": {
+    "q": "17. Har alle ret til at danne foreninger i Danmark? ",
+    "A": "Ja  ",
+    "Rigtig": "A",
+    "B": "Nej "
+  },
+  "18": {
+    "q": "18. Hvad er normalt ikke gratis for voksne i Danmark? ",
+    "A": "At gåtil tandlæge  ",
+    "Rigtig": "A",
+    "B": "At gåtil læge ",
+    "C": "At komme påhospitalet"
+  },
+  "19": {
+    "q": "19. Er det gratis at låne bøger påfolkebibliotekerne? ",
+    "A": "Ja  ",
+    "Rigtig": "A",
+    "B": "Nej "
+  },
+  "20": {
+    "q": "20. Hvis en borger bliver anholdt, skal den anholdte stilles for en dommer ",
+    "A": "inden for 24 timer  ",
+    "Rigtig": "A",
+    "B": "inden for 48 timer ",
+    "C": "inden for 72 timer"
+  },
+  "21": {
+    "q": "21. Bestemmer man selv, om man vil være medlem af en a-kasse? ",
+    "A": "Ja  ",
+    "Rigtig": "A",
+    "B": "Nej"
+  },
+  "22": {
+    "q": "22. Har mænd ret til fædreorlov efter deres barns fødsel? ",
+    "A": "Ja  ",
+    "Rigtig": "A",
+    "B": "Nej "
+  },
+  "23": {
+    "q": "23. Måen arbejdsgiver fyre en ansat, fordi den ansatte melder sig ind i en fagforening? ",
+    "A": "Ja ",
+    "B": "Nej ",
+    "Rigtig": "B"
+  },
+  "24": {
+    "q": "24. Hvor mange ugers ferie har man normalt ret til som lønmodtager i Danmark?",
+    "A": "3-4 ugers ferie ",
+    "B": "5-6 ugers ferie  ",
+    "Rigtig": "B",
+    "C": "7-8 ugers ferie "
+  },
+  "25": {
+    "q": "25. Hvad hedder den karakterskala, der anvendes i det danske uddannelsessystem? ",
+    "A": "13-trinsskalaen ",
+    "B": "10-trinsskalaen ",
+    "C": "7-trinsskalaen ",
+    "Rigtig": "C"
+  },
+  "26": {
+    "q": "26. Hvor stor en andel af børn mellem 3 og 5 år i Danmark bliver passet uden for hjemmet? ",
+    "A": "Ca. 57 % ",
+    "B": "Ca. 77 % ",
+    "C": "Ca. 97 % ",
+    "Rigtig": "C"
+  },
+  "27": {
+    "q": "27. Skal forældrene normalt selv betale en del af udgifterne for at fåderes barn passet i en vuggestue? ",
+    "A": "Ja  ",
+    "Rigtig": "A",
+    "B": "Nej"
+  },
+  "28": {
+    "q": "28. Ole Bornedal har instrueret en ny dansk dramaserie for DR. Hvad handler den om? ",
+    "A": "2. Slesvigske Krig i 1864  ",
+    "Rigtig": "A",
+    "B": "Kvindernes stemmeret til Folketinget i 1915 ",
+    "C": "Landboreformerne i 1700-tallet"
+  },
+  "29": {
+    "q": "29. I august 2014 fik Radikale Venstre ny politisk leder. Hvad hedder den nye leder? ",
+    "A": "Ida Auken ",
+    "B": "Manu Sareen ",
+    "C": "Morten Østergaard ",
+    "Rigtig": "C"
+  },
+  "30": {
+    "q": "30. Hvem blev i september 2014 valgt som ny formand for Det Konservative Folkeparti? ",
+    "A": "Søren Pape Poulsen  ",
+    "Rigtig": "A",
+    "B": "Lene Espersen ",
+    "C": "Tom Behnke"
+  }
+}

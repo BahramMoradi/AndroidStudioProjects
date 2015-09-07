@@ -1,0 +1,52 @@
+{
+  "TITLE":"Kongehus, flag, Rigsfællesskab og Island",
+  "1": {
+    "q": "1. Hvad hedder Danmarks nuværende monark og statsoverhoved?",
+    "A": "Dronning Dagmar",
+    "B": "Dronning Margrethe 1.",
+    "C": "Dronning Margrethe 2. ",
+    "Rigtig": "C"
+  },
+  "2": {
+    "q": "2. Hvad hedder det danske nationalflag?",
+    "A": "Dannebrog ",
+    "B": "Dannevang",
+    "C": "Dannevirke",
+    "Rigtig": "A"
+  },
+  "3": {
+    "q": "3. Adam Oehlenschläger skrev i 1819 et digt, som senere blev Danmarks nationalsang. Hvad hedder nationalsangen?",
+    "A": "I Danmark er jeg født",
+    "B": "Jeg ved, hvor der findes en have så skøn",
+    "C": "Der er et yndigt land ",
+    "Rigtig": "C"
+  },
+  "4": {
+    "q": "4. Hvad kaldes fællesskabet, der består af Danmark, Grønland og Færøerne?",
+    "A": "Landsfællesskabet",
+    "B": "Nationsfællesskabet",
+    "C": "Rigsfællesskabet ",
+    "Rigtig": "C"
+  },
+  "5": {
+    "q": "5. Grønland og Færøerne har i dag hjemmestyre. Hvilke af følgende sagsområder hører ikke under hjemmestyret?",
+    "A": "Uddannelsesområdet",
+    "B": "Sundhedsområdet",
+    "C": "Det udenrigs- og sikkerhedspolitiske område ",
+    "Rigtig": "C"
+  },
+  "6": {
+    "q": "6. Hvor mange medlemmer af Folketinget vælges i Grønland og på Færøerne?",
+    "A": "Ingen medlemmer af Folketinget vælges i Grønland og på Færøerne",
+    "B": "I alt fire medlemmer af Folketinget vælges i Grønland og på Færøerne ",
+    "C": "I alt otte medlemmer af Folketinget vælges i Grønland og på Færøerne",
+    "Rigtig": "B"
+  },
+  "7": {
+    "q": "7. Island hørte i flere hundrede år under Danmark. I hvilket år løsrev det sig fra Danmark?",
+    "A": "1802",
+    "B": "1944 ",
+    "C": "1984",
+    "Rigtig": "B"
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "TITLE":"Grundlov, styreform og folketing",
+  "1": {
+    "q": "1. Hvad kaldes Danmarks forfatning?",
+    "A": "Danmarks Riges Grundlov ",
+    "Rigtig": "A",
+    "B": "Det danske Riges Forfatning",
+    "C": "Det danske Demokratis Grundlov"
+  },
+  "2": {
+    "q": "2. Hvilket år underskrev den danske konge Danmarks første frie forfatning,Danmarks Riges Grundlov?",
+    "A": "1660",
+    "B": "1849 ",
+    "Rigtig": "B",
+    "C": "1901"
+  },
+  "3": {
+    "q": "3. Hvornår er grundloven senest blevet ændret?",
+    "A": "1849",
+    "B": "1901",
+    "C": "1953 ",
+    "Rigtig": "C"
+  },
+  "4": {
+    "q": "4. Hvornår fik danske kvinder valgret til Folketinget?",
+    "A": "1849",
+    "B": "1901",
+    "C": "1915 ",
+    "Rigtig": "C"
+  },
+  "5": {
+    "q": "5. Grundloven bestemmer, at magten i Danmark er tredelt. Det betyder, at magten er fordelt mellem:",
+    "A": "En lovgivende, en udøvende og en dømmende magt ",
+    "Rigtig": "A",
+    "B": "B. Dronningen, Folketinget og EU",
+    "C": "Dronningen, regeringen og den dømmende magt"
+  },
+  "6": {
+    "q": "6. I hvilken bygning har Folketinget til huse?",
+    "A": "Amalienborg",
+    "B": "Christiansborg ",
+    "Rigtig": "B",
+    "C": "Frederiksborg"
+  },
+  "7": {
+    "q": "7. I hvilken by ligger Christiansborg?",
+    "A": "Odense",
+    "B": "København ",
+    "Rigtig": "B",
+    "C": "Århus"
+  },
+  "8": {
+    "q": "8. Hvad hedder det danske parlament?",
+    "A": "Landstinget",
+    "B": "Folketinget ",
+    "Rigtig": "B",
+    "C": "Overhuset"
+  },
+  "9": {
+    "q": "9. Hvor mange medlemmer har Folketinget?",
+    "A": "145",
+    "B": "179 ",
+    "Rigtig": "B",
+    "C": "192"
+  },
+  "10": {
+    "q": "10. Er Folketingets møder åbne for offentligheden?",
+    "A": "Ja ",
+    "Rigtig": "A",
+    "B": "Nej",
+    "C": "Ja, men kun for medlemmer af et parti"
+  },
+  "11": {
+    "q": "11. Kan et folketingsmedlem, som træder ud af sit parti, forsat sidde i Folketinget?",
+    "A": "Ja ",
+    "Rigtig": "A",
+    "B": "Nej",
+    "C": "Ja, men medlemmet kan ikke deltage i afstemninger"
+  },
+  "12": {
+    "q": "12. En regering består af ministre. Hvor mange ministre skal der udpeges?",
+    "A": "Der skal mindst udpeges 10 ministre",
+    "B": "Der skal udpeges 18 ministre",
+    "C": "Der gælder ikke noget krav om et bestemt antal ministre ",
+    "Rigtig": "C"
+  },
+  "13": {
+    "q": "13. Er det en betingelse for at blive udnævnt som minister, at vedkommende er medlem af Folketinget?",
+    "A": "Ja",
+    "B": "Nej ",
+    "Rigtig": "B"
+  },
+  "14": {
+    "q": "14. Folketingets hovedopgave er",
+    "A": "at vedtage love og føre kontrol med regeringen ",
+    "Rigtig": "A",
+    "B": "at sikre, at lov og orden opretholdes",
+    "C": "at sørge for, at landets love føres ud i livet"
+  },
+  "15": {
+    "q": "15. Hvordan kan Folketinget blandt andet føre kontrol med regeringen?",
+    "A": "Folketingsudvalg kan komme på uanmeldt besøg i ministerierne",
+    "B": "Ministrene skal hver uge orientere folketingsudvalgene om, hvad de har lavet",
+    "C": "Ministrene kan blive kaldt i samråd i Folketingets udvalg ",
+    "Rigtig": "C"
+  },
+  "16": {
+    "q": "16. Hvem kan blive medlem af et folketingsudvalg?",
+    "A": "Enhver borger",
+    "B": "Embedsmænd, der er ansat i et ministerium",
+    "C": "C. Medlemmer af Folketinget ",
+    "Rigtig": "C"
+  },
+  "17": {
+    "q": "17. Ifølge grundloven skal et lovforslag behandles et antal gange, før det kan blive vedtaget af Folketinget. Hvor mange behandlinger skal et lovforslag igennem?",
+    "A": "3 gange ",
+    "Rigtig": "A",
+    "B": "6 gange ",
+    "C": "9 gange"
+  },
+  "18": {
+    "q": "18. Hvor ofte skal der ifølge grundloven afholdes folketingsvalg?",
+    "A": "Mindst hvert andet år",
+    "B": "Mindst hvert fjerde år ",
+    "Rigtig": "B",
+    "C": "Mindst hvert sjette år"
+  },
+  "19": {
+    "q": "19. Hvem udskriver valg til Folketinget?",
+    "A": "Folketingets formand",
+    "B": "Statsministeren ",
+    "Rigtig": "B",
+    "C": "Folketingets ombudsmand"
+  },
+  "20": {
+    "q": "20. Hvor gammel skal man mindst være for at have valgret til Folketinget?",
+    "A": "15 år",
+    "B": "18 år ",
+    "Rigtig": "B",
+    "C": "25 år"
+  },
+  "21": {
+    "q": "21. For at kunne vælges til medlem af Folketinget skal man mindst være",
+    "A": "18 år ",
+    "Rigtig": "A",
+    "B": "20 år",
+    "C": "24 år"
+  },
+  "22": {
+    "q": "22. Hvilke krav stilles for, at man kan stemme ved et folketingsvalg?",
+    "A": "Man skal betale skat og have dansk indfødsret",
+    "B": "Man skal have dansk indfødsret, have fast bopæl i Danmark, på Færøerne eller i Grønland, være fyldt 18 år og være myndig ",
+    "Rigtig": "B",
+    "C": "Man skal være ustraffet og have fast bopæl i Danmark"
+  },
+  "23": {
+    "q": "23. Når der er valg til Folketinget,",
+    "A": "modtager alle stemmeberettigede bosiddende i Danmark automatisk, det vil sige uden selv at bede om det, et valgkort ",
+    "Rigtig": "A",
+    "B": "skal den stemmeberettigede bede den region, vedkommende bor i, om at få tilsendt et valgkort",
+    "C": "skal den stemmeberettigede bede Folketinget om at få tilsendt et valgkort"
+  },
+  "24": {
+    "q": "24. Når der afholdes valg til Folketinget,",
+    "A": "har alle vælgere pligt til at stemme",
+    "B": "må den enkelte vælger selv afgøre, om han eller hun ønsker at stemme ",
+    "Rigtig": "B",
+    "C": "har alle, der er medlem af et politisk parti, pligt til at stemme, mens andre vælgere selv må afgøre, om de ønsker at stemme"
+  },
+  "25": {
+    "q": "25. Hvordan afgives en stemme på afstemningsstedet på valgdagen ved et folketingsvalg i Danmark?",
+    "A": "Der udleveres en blank stemmeseddel, hvorpå man skal skrive navnet på den kandidat eller det parti, som man ønsker at stemme på  ",
+    "B": "Man skal oplyse, hvorledes man ønsker at stemme, til de valgforordnede, der herefter noterer dette",
+    "C": "Man får en stemmeseddel med navnene på de opstillede partier og kandidater, hvor man skal sætte et kryds ud for det parti eller den kandidat, man ønsker at stemme på ",
+    "Rigtig": "C"
+  },
+  "26": {
+    "q": "26. Til medlem af Folketinget",
+    "A": "kan en person kun vælges for én valgperiode",
+    "B": "kan en person genvælges for flere valgperioder ",
+    "Rigtig": "B"
+  },
+  "27": {
+    "q": "27. Vælges der medlemmer til Folketinget fra områder uden for Danmark?",
+    "A": "Ja, fra Sydslesvig",
+    "B": "Ja, fra Færøerne og Grønland ",
+    "Rigtig": "B",
+    "C": "Ja, fra Island"
+  },
+  "28": {
+    "q": "28. Hvor mange procent af de gyldige stemmer skal et parti normalt opnå for at blive repræsenteret i Folketinget ved valg i Danmark?",
+    "A": "2 % ",
+    "Rigtig": "A",
+    "B": "6 %",
+    "C": "8 %"
+  },
+  "29": {
+    "q": "29. Hvor stor er valgdeltagelsen normalt til folketingsvalgene i Danmark?",
+    "A": "Mellem 50 og 60 % af vælgerne stemmer",
+    "B": "Mellem 60 og 70 % af vælgerne stemmer",
+    "C": "Mellem 80 og 90 % af vælgerne stemmer ",
+    "Rigtig": "C"
+  },
+  "30": {
+    "q": "30. Ved hvilket af følgende valg i Danmark er valgdeltagelsen normalt lavest?",
+    "A": "Ved valg til Folketinget",
+    "B": "Ved valg til kommunalbestyrelser og regionsråd",
+    "C": "Ved valg til Europa-Parlamentet ",
+    "Rigtig": "C"
+  },
+  "31": {
+    "q": "31. I de seneste 50 år har der været afholdt 11 folkeafstemninger i Danmark om bestemte spørgsmål. Hvad har over halvdelen af disse afstemninger handlet om?",
+    "A": "\u00c6ndring af skatte- og momsregler",
+    "B": "Love om offentlige anlægsarbejder (byggeri af veje og broer)",
+    "C": "Danmarks forhold til EF/ EU ",
+    "Rigtig": "C"
+  },
+  "32": {
+    "q": "32. Hvilken titel har den minister, som leder den danske regering?",
+    "A": "Statsminister ",
+    "Rigtig": "A",
+    "B": "Forbundsminister",
+    "C": "Præsident"
+  },
+  "33": {
+    "q": "33. Hvem er Danmarks statsoverhoved?",
+    "A": "Dronningen ",
+    "Rigtig": "A",
+    "B": "Folketingets ombudsmand",
+    "C": "Folketingets formand"
+  },
+  "34": {
+    "q": "34. Hvem underskriver en lov?",
+    "A": "Dronningen og en minister ",
+    "Rigtig": "A",
+    "B": "Statsministeren",
+    "C": "Justitsministeren"
+  },
+  "35": {
+    "q": "35. Skal Danmarks dronning være medlem af den danske folkekirke?",
+    "A": "Ja ",
+    "Rigtig": "A",
+    "B": "Nej"
+  },
+  "36": {
+    "q": "36. Hvad er forudsætningen for, at der kan udpeges en regering?",
+    "A": "De partier, der indgår i regeringen, skal have flertal i Folketinget",
+    "B": "Regeringen skal have støtte fra 2/3 af folketingets medlemmer",
+    "C": "Der er ikke noget krav om flertal \u2013 men regeringen må ikke have et flertal imod sig i Folketinget ",
+    "Rigtig": "C"
+  },
+  "37": {
+    "q": "37. Hvordan udnævnes det personale (embedsmændene), der arbejder i et ministerium?",
+    "A": "Embedsmændene ansættes efter deres kvalifikationer ",
+    "Rigtig": "A",
+    "B": "Embedsmændene ansættes efter deres politiske tilhørsforhold",
+    "C": "Embedsmændene ansættes, så de repræsenterer alle partier i Folketinget"
+  },
+  "38": {
+    "q": "38. Demokratiet i Danmark er et repræsentativt demokrati. Hvad vil det sige?",
+    "A": "At befolkningen vælger repræsentanter til Folketinget, og at Folketinget tager beslutninger på folkets vegne ",
+    "Rigtig": "A",
+    "B": "At Folketingets sammensætning vedrørende køn, alder og social baggrund svarer til befolkningen",
+    "C": "At folketingsmedlemmerne skal spørge deres valgkreds, før de deltager i Folketingets afstemninger"
+  }
+}

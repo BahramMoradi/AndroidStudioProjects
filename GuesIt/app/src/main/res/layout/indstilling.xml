@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="5dp" >
+
+    <RadioButton
+        android:id="@+id/gempoint_rb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gem point" />
+
+    <RadioButton
+        android:id="@+id/afspillyd_rb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Afspil lyd" />
+
+    <RadioButton
+        android:id="@+id/dr_rb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hent ord fra dr" />
+
+    <Button
+        android:id="@+id/gem_bt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gem" />
+
+    <Button
+        android:id="@+id/reset_bt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Reset" />
+
+</LinearLayout>

@@ -1,0 +1,49 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.galegeleg.MainPageActivity" >
+    
+    
+    
+    
+        
+    
+    
+      <item
+        android:id="@+id/start_act"
+        android:title="@string/start"
+        
+        />
+      
+        <item
+        android:id="@+id/spil_act"
+        android:title="@string/spil"
+        
+        />
+    
+    <item
+        android:id="@+id/result_act"
+        android:title="@string/result"
+        
+        />
+     <item
+        android:id="@+id/indstilling_act"
+        android:title="@string/indstilling"
+    />
+       <item
+        android:id="@+id/help_act"
+        android:title="@string/help"
+    />
+    <item
+        android:id="@+id/omspil_act"
+        android:title="@string/omspil" />
+      <item
+        android:id="@+id/exit_act"
+        android:title="@string/exit"
+        
+        />
+    
+        
+    
+</menu>
+
