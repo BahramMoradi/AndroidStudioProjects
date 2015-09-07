@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Indfødsretsprøver og træning</string>
+    <string name="action_settings">Indstilling</string>
+    <string name="title_activity_test">Prøver</string>
+    <string name="title_activity_main">Vælger test</string>
+    <string name="title_activity_exercise">Trænings kategorier</string>
+    <string name="title_activity_start">Velkommen</string>
+
+    <string name="velkommen">Velkommen.\n Denne app er udviklet for at hjælper flygtninge og invandre til at træner og består stateborgskabs test. held og lykke.
+        \n
+        <i>Jeg gør opmærksom</i> på at spørgsmål fra træning kategorier er taget dirkte fra test version af indførtretsprøven. Siden da mange ting har ændret sig specialt
+        lovgivning omkring krminal lavalder. pass på actual spørgsmålet, de kan ikke være relevant for tiden du prøver denne test.
+    </string>
+
+
+    <string name="CAT_1_FILE">cat1</string>
+    <string name="CAT_2_FILE">cat2</string>
+    <string name="CAT_3_FILE">cat3</string>
+    <string name="CAT_4_FILE">cat4</string>
+    <string name="CAT_5_FILE">cat5</string>
+    <string name="CAT_6_FILE">cat6</string>
+    <string name="CAT_7_FILE">cat7</string>
+    <string name="CAT_8_FILE">cat8</string>
+    <string name="CAT_9_FILE">cat9</string>
+    <string name="CAT_10_FILE">cat10</string>
+    <string name="CAT_11_FILE">cat11</string>
+    <string name="title_activity_show_result">ShowResultActivity</string>
+
+    <string name="test11Juni2014">11 juni 2014</string>
+    <string name="test2december2014">2 december 2014</string>
+    <string name="test2juni2015">2 juni 2015</string>
+
+
+
+</resources>
